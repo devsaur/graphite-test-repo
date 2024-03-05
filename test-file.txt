@@ -3,3 +3,7 @@
 This should be reviewed
 
 And this modification was made after first commit. After that I actually also added this change (after Feature B was introduced)
+
+# Feature B added
+
+This feature builds on A
